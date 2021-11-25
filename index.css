@@ -554,6 +554,7 @@ body:not(.user-is-tabbing) a:focus {
 
 @media(min-width: 901px) {
     .about__text {
+        font-size:  10px
         flex: 0 0 35%;
     }
     
